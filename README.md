@@ -2,13 +2,11 @@
 
 University of Manchester Computer Science student.
 
-Languages I'm confident in:
-Python, C, Java, 
-HTML, CSS, Javascript, PHP, MySQL
+High Confidence:
+Python, C, Java, HTML, CSS, Javascript, PHP, MySQL
 
-Languages I'm learning:
-Python, C, Java, PHP, MySQL, Bash,
-C++, Haskell.
+Medium Confidence:
+Bash, C++.
 
 Interested in Computer Engineering and Architecture, Machine Learning,
 Virtual Reality, Video Game Software, Logic and Modelling, Software development,
